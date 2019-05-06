@@ -13,7 +13,7 @@ Tor command line tools for Mac & Fish shell.
 ## Installation
 
 ```bash
-fiser add ninoseki/easy_tor
+fisher add ninoseki/easy_tor
 ```
 
 ## Commands
